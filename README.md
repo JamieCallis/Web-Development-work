@@ -5,7 +5,7 @@ Web development work is a collection of web development projects.
 ### Projects
 
 
-* [API Training](API-training.md) - A project working with google maps, allowing user to filter locations. When a marker is clicked it shows the street view for the given location.
+* [API Training](https://github.com/JamieCallis/Web-Development-work/tree/master/API-training)
 * [arcade-game] - A interactive game working with the canvas this project was build as part of securing the Udacity Front End Nanodegree certificate. 
 * [canvas-work] - A collection of work using the canvas. These projects where done in preperation work for the arcade-game.
 * [ajax] - Project using AJAX, and handling requests.
