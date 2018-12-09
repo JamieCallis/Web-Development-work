@@ -16,4 +16,5 @@ Each project contains a README file with a description and information on how to
 * [swipable Image On Cards](https://github.com/JamieCallis/Web-Development-work/tree/master/swipable-image-on-cards)
 * [testing JS](https://github.com/JamieCallis/Web-Development-work/tree/master/testing-JS)
 * [Contacts React](https://github.com/JamieCallis/Web-Development-work/tree/master/contacts)
+* [Book tracking app](https://github.com/JamieCallis/Web-Development-work/tree/master/book-tracking-app)
 * [nb_map React](https://github.com/JamieCallis/Web-Development-work/tree/master/nb_map)
