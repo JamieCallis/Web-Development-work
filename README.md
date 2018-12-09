@@ -2,6 +2,8 @@
 
 Web development work is a collection of web development projects. 
 
+Each project contains a README file with a description and information on how to use the project and set it up.
+
 ### Projects
 
 
