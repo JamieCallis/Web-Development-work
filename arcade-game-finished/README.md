@@ -11,6 +11,6 @@
 * 'left' - moves the player 1 square to the left.
 * 'right' - moves the player 1 square to the right.
 
-#### in order to pass the game the aim is to avoid the enemies, if you make contact with an enemy then you will be rest to the starting square.
+#### in order to pass the game the aim is to avoid the enemies, if you make contact with an enemy then you will be reset to the starting square.
 
 #### make it to the water without colliding with an enemy to win the game!
