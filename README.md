@@ -9,6 +9,7 @@ Each project contains a README file with a description and information on how to
 
 * [API Training](https://github.com/JamieCallis/Web-Development-work/tree/master/API-training)
 * [Aarcade Game](https://github.com/JamieCallis/Web-Development-work/tree/master/arcade-game-finished) 
+* [Memory Game](https://github.com/JamieCallis/Web-Development-work/tree/master/fend-project-memory-game-master)
 * [Canvas-Work](https://github.com/JamieCallis/Web-Development-work/tree/master/canvas-work) 
 * [AJAX](https://github.com/JamieCallis/Web-Development-work/tree/master/minicourse-ajax-project) 
 * [Resturant Review App](https://github.com/JamieCallis/Web-Development-work/tree/master/resturant-review-app)
